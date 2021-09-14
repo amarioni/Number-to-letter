@@ -1,6 +1,4 @@
-def inc(x):
-    return x + 1
-
+from num_to_letr import num_let
 
 def test_answer():
-    assert inc(3) == 4
+    assert num_let(5) == "CINCO"

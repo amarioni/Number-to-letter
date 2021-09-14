@@ -75,10 +75,3 @@ def convert(num, sw):
  			text_uni = text_uni[sw]
  
 	return "{} {} {}" .format(text_cent,text_dec,text_uni)
-
-repit = 1
-
-while repit == 1:
-    num = int(input("Ingrese un número: "))
-    num_let(num)
-
