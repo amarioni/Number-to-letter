@@ -32,7 +32,7 @@ def num_let(num):
 		if num == 1000000000:
 			num_letter = "UN BILLÓN"
 	
-	print (num_letter)
+	return num_letter
  
  
 def convert(num, sw):

@@ -4,4 +4,4 @@ repit = 1
 
 while repit == 1:
     num = int(input("Ingrese un número: "))
-    num_let(num)
+    print (num_let(num))
