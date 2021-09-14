@@ -32,7 +32,6 @@ def num_let(num):
 		if num == 1000000000:
 			num_letter = "UN BILLÓN"
 	
-	print ('Numero: ',num)
 	print (num_letter)
  
  
